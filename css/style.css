@@ -20,5 +20,15 @@ body{
 }
 
 
+.myborder{
+    border: black solid .1em;
+    border-radius: .1em;
+    border: solid 0.2rem;
+    border-radius: 0.7rem;
+    background-color: violet;
+    margin-top: 0.5rem;
+}
+
+
 
 
